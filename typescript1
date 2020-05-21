@@ -1,0 +1,1608 @@
+Script started on 2020-05-21 16:17:46+03:00 [TERM="linux" TTY="/dev/tty1" COLUMNS="80" LINES="25"]
+bash-5.0# tar -xvf joe-4.6.tar.gz 
+joe-4.6/
+joe-4.6/charmaps/
+joe-4.6/charmaps/klingon.in
+joe-4.6/setup.hint
+joe-4.6/missing
+joe-4.6/config.sub
+joe-4.6/acinclude.m4
+joe-4.6/README.md
+joe-4.6/Makefile.am
+joe-4.6/po/
+joe-4.6/po/de.po
+joe-4.6/po/fr.po
+joe-4.6/po/Makefile.am
+joe-4.6/po/uk.po
+joe-4.6/po/ru.po
+joe-4.6/po/zh_TW.po
+joe-4.6/po/Makefile.in
+joe-4.6/colors/
+joe-4.6/colors/gruvbox.jcf
+joe-4.6/colors/Makefile.am
+joe-4.6/colors/zenburn-hc.jcf
+joe-4.6/colors/wombat.jcf
+joe-4.6/colors/zenburn.jcf
+joe-4.6/colors/default.jcf
+joe-4.6/colors/solarized.jcf
+joe-4.6/colors/ir_black.jcf
+joe-4.6/colors/xoria.jcf
+joe-4.6/colors/Makefile.in
+joe-4.6/colors/molokai.jcf
+joe-4.6/NEWS.md
+joe-4.6/configure.ac
+joe-4.6/compile
+joe-4.6/joe/
+joe-4.6/joe/macro.h
+joe-4.6/joe/cmd.c
+joe-4.6/joe/uerror.h
+joe-4.6/joe/uisrch.c
+joe-4.6/joe/state.h
+joe-4.6/joe/util/
+joe-4.6/joe/util/Makefile.am
+joe-4.6/joe/util/termidx.c
+joe-4.6/joe/util/unicode-8-0-0/
+joe-4.6/joe/util/unicode-8-0-0/CaseFolding.txt
+joe-4.6/joe/util/unicode-8-0-0/UnicodeData.txt
+joe-4.6/joe/util/unicode-8-0-0/Blocks.txt
+joe-4.6/joe/util/unicode-8-0-0/EastAsianWidth.txt
+joe-4.6/joe/util/README
+joe-4.6/joe/util/unicode-10-0-0/
+joe-4.6/joe/util/unicode-10-0-0/CaseFolding.txt
+joe-4.6/joe/util/unicode-10-0-0/UnicodeData.txt
+joe-4.6/joe/util/unicode-10-0-0/Blocks.txt
+joe-4.6/joe/util/unicode-10-0-0/EastAsianWidth.txt
+joe-4.6/joe/util/checkwidths.c
+joe-4.6/joe/util/stringify.c
+joe-4.6/joe/util/Makefile.in
+joe-4.6/joe/util/uniproc.c
+joe-4.6/joe/util/unicode-9-0-0/
+joe-4.6/joe/util/unicode-9-0-0/CaseFolding.txt
+joe-4.6/joe/util/unicode-9-0-0/UnicodeData.txt
+joe-4.6/joe/util/unicode-9-0-0/Blocks.txt
+joe-4.6/joe/util/unicode-9-0-0/EastAsianWidth.txt
+joe-4.6/joe/mmenu.c
+joe-4.6/joe/pw.h
+joe-4.6/joe/utf8.c
+joe-4.6/joe/uedit.c
+joe-4.6/joe/blocks.c
+joe-4.6/joe/umath.c
+joe-4.6/joe/vfile.c
+joe-4.6/joe/uformat.c
+joe-4.6/joe/charmap.c
+joe-4.6/joe/selinux.c
+joe-4.6/joe/rc.c
+joe-4.6/joe/qw.c
+joe-4.6/joe/qw.h
+joe-4.6/joe/va.h
+joe-4.6/joe/vt.c
+joe-4.6/joe/usearch.c
+joe-4.6/joe/poshist.h
+joe-4.6/joe/undo.h
+joe-4.6/joe/Makefile.am
+joe-4.6/joe/tab.c
+joe-4.6/joe/builtin.h
+joe-4.6/joe/options.c
+joe-4.6/joe/b.h
+joe-4.6/joe/b.c
+joe-4.6/joe/lattr.c
+joe-4.6/joe/types.h
+joe-4.6/joe/vfile.h
+joe-4.6/joe/help.h
+joe-4.6/joe/main.h
+joe-4.6/joe/vt.h
+joe-4.6/joe/autoconf.h.in
+joe-4.6/joe/rc.h
+joe-4.6/joe/usearch.h
+joe-4.6/joe/frag.h
+joe-4.6/joe/termcap.c
+joe-4.6/joe/va.c
+joe-4.6/joe/ushell.c
+joe-4.6/joe/tw.c
+joe-4.6/joe/cmd.h
+joe-4.6/joe/uisrch.h
+joe-4.6/joe/ufile.c
+joe-4.6/joe/utf8.h
+joe-4.6/joe/path.h
+joe-4.6/joe/main.c
+joe-4.6/joe/vs.c
+joe-4.6/joe/macro.c
+joe-4.6/joe/state.c
+joe-4.6/joe/queue.h
+joe-4.6/joe/queue.c
+joe-4.6/joe/menu.c
+joe-4.6/joe/w.c
+joe-4.6/joe/uedit.h
+joe-4.6/joe/hash.h
+joe-4.6/joe/regex.h
+joe-4.6/joe/kbd.h
+joe-4.6/joe/ushell.h
+joe-4.6/joe/mouse.h
+joe-4.6/joe/cclass.c
+joe-4.6/joe/help.c
+joe-4.6/joe/charmap.h
+joe-4.6/joe/mouse.c
+joe-4.6/joe/TODO
+joe-4.6/joe/builtins.c
+joe-4.6/joe/mmenu.h
+joe-4.6/joe/tty.c
+joe-4.6/joe/colors.h
+joe-4.6/joe/pw.c
+joe-4.6/joe/utils.h
+joe-4.6/joe/gettext.h
+joe-4.6/joe/umath.h
+joe-4.6/joe/utag.h
+joe-4.6/joe/cclass.h
+joe-4.6/joe/unicat-9.0.0.c
+joe-4.6/joe/utag.c
+joe-4.6/joe/ublock.c
+joe-4.6/joe/menu.h
+joe-4.6/joe/scrn.c
+joe-4.6/joe/gettext.c
+joe-4.6/joe/ublock.h
+joe-4.6/joe/config.h
+joe-4.6/joe/unicode.h
+joe-4.6/joe/syntax.c
+joe-4.6/joe/blocks.h
+joe-4.6/joe/termcapj.h
+joe-4.6/joe/hash.c
+joe-4.6/joe/kbd.c
+joe-4.6/joe/lattr.h
+joe-4.6/joe/poshist.c
+joe-4.6/joe/scrn.h
+joe-4.6/joe/uerror.c
+joe-4.6/joe/regex.c
+joe-4.6/joe/options.h
+joe-4.6/joe/selinux.h
+joe-4.6/joe/tab.h
+joe-4.6/joe/undo.c
+joe-4.6/joe/bw.h
+joe-4.6/joe/uformat.h
+joe-4.6/joe/w.h
+joe-4.6/joe/Makefile.in
+joe-4.6/joe/builtin.c
+joe-4.6/joe/bw.c
+joe-4.6/joe/colors.c
+joe-4.6/joe/syntax.h
+joe-4.6/joe/tw.h
+joe-4.6/joe/tty.h
+joe-4.6/joe/vs.h
+joe-4.6/joe/frag.c
+joe-4.6/joe/utils.c
+joe-4.6/joe/ufile.h
+joe-4.6/joe/path.c
+joe-4.6/joe/unicode.c
+joe-4.6/configure
+joe-4.6/cygbuild
+joe-4.6/aclocal.m4
+joe-4.6/INSTALL.md
+joe-4.6/ChangeLog
+joe-4.6/depcomp
+joe-4.6/COPYING
+joe-4.6/config.guess
+joe-4.6/install-sh
+joe-4.6/INSTALL.AMIGA
+joe-4.6/autojoe
+joe-4.6/rc/
+joe-4.6/rc/joerc.zh_TW.in
+joe-4.6/rc/shell.sh
+joe-4.6/rc/shell.csh
+joe-4.6/rc/jpicorc.in
+joe-4.6/rc/Makefile.am
+joe-4.6/rc/jicerc.ru.in
+joe-4.6/rc/jstarrc.in
+joe-4.6/rc/joerc.in
+joe-4.6/rc/jmacsrc.in
+joe-4.6/rc/Makefile.in
+joe-4.6/rc/rjoerc.in
+joe-4.6/rc/ftyperc
+joe-4.6/man/
+joe-4.6/man/joe.1.in
+joe-4.6/man/Makefile.am
+joe-4.6/man/ru/
+joe-4.6/man/ru/joe.1.in
+joe-4.6/man/ru/Makefile.am
+joe-4.6/man/ru/Makefile.in
+joe-4.6/man/Makefile.in
+joe-4.6/Makefile.in
+joe-4.6/syntax/
+joe-4.6/syntax/htmlerb.jsf
+joe-4.6/syntax/dockerfile.jsf
+joe-4.6/syntax/4gl.jsf
+joe-4.6/syntax/clojure.jsf
+joe-4.6/syntax/jsf_check.jsf
+joe-4.6/syntax/erlang.jsf
+joe-4.6/syntax/elixir.jsf
+joe-4.6/syntax/m4.jsf
+joe-4.6/syntax/comment_todo.jsf
+joe-4.6/syntax/ada.jsf
+joe-4.6/syntax/skill.jsf
+joe-4.6/syntax/html.jsf
+joe-4.6/syntax/batch.jsf
+joe-4.6/syntax/css.jsf
+joe-4.6/syntax/haml.jsf
+joe-4.6/syntax/erb.jsf
+joe-4.6/syntax/git-commit.jsf
+joe-4.6/syntax/xml.jsf
+joe-4.6/syntax/ini.jsf
+joe-4.6/syntax/Makefile.am
+joe-4.6/syntax/r.jsf
+joe-4.6/syntax/filename.jsf
+joe-4.6/syntax/java.jsf
+joe-4.6/syntax/md.jsf
+joe-4.6/syntax/sh.jsf
+joe-4.6/syntax/sed.jsf
+joe-4.6/syntax/sieve.jsf
+joe-4.6/syntax/prolog.jsf
+joe-4.6/syntax/powershell.jsf
+joe-4.6/syntax/properties.jsf
+joe-4.6/syntax/debian.jsf
+joe-4.6/syntax/scala.jsf
+joe-4.6/syntax/verilog.jsf
+joe-4.6/syntax/tex.jsf
+joe-4.6/syntax/tcl.jsf
+joe-4.6/syntax/matlab.jsf
+joe-4.6/syntax/pascal.jsf
+joe-4.6/syntax/iptables.jsf
+joe-4.6/syntax/avr.jsf
+joe-4.6/syntax/spec.jsf
+joe-4.6/syntax/ocaml.jsf
+joe-4.6/syntax/rexx.jsf
+joe-4.6/syntax/conf.jsf
+joe-4.6/syntax/whitespace.jsf
+joe-4.6/syntax/troff.jsf
+joe-4.6/syntax/haskell.jsf
+joe-4.6/syntax/sql.jsf
+joe-4.6/syntax/joerc.jsf
+joe-4.6/syntax/csharp.jsf
+joe-4.6/syntax/mason.jsf
+joe-4.6/syntax/ps.jsf
+joe-4.6/syntax/sml.jsf
+joe-4.6/syntax/lua.jsf
+joe-4.6/syntax/jsf.jsf
+joe-4.6/syntax/fortran.jsf
+joe-4.6/syntax/diff.jsf
+joe-4.6/syntax/d.jsf
+joe-4.6/syntax/context.jsf
+joe-4.6/syntax/c.jsf
+joe-4.6/syntax/lisp.jsf
+joe-4.6/syntax/go.jsf
+joe-4.6/syntax/awk.jsf
+joe-4.6/syntax/js.jsf
+joe-4.6/syntax/asm.jsf
+joe-4.6/syntax/coffee.jsf
+joe-4.6/syntax/json.jsf
+joe-4.6/syntax/rust.jsf
+joe-4.6/syntax/swift.jsf
+joe-4.6/syntax/mail.jsf
+joe-4.6/syntax/Makefile.in
+joe-4.6/syntax/perl.jsf
+joe-4.6/syntax/jcf.jsf
+joe-4.6/syntax/php.jsf
+joe-4.6/syntax/ruby.jsf
+joe-4.6/syntax/groovy.jsf
+joe-4.6/syntax/yaml.jsf
+joe-4.6/syntax/typescript.jsf
+joe-4.6/syntax/python.jsf
+joe-4.6/syntax/cobol.jsf
+joe-4.6/syntax/puppet.jsf
+joe-4.6/syntax/ant.jsf
+joe-4.6/syntax/csh.jsf
+joe-4.6/syntax/vhdl.jsf
+joe-4.6/desktop/
+joe-4.6/desktop/jpico.desktop
+joe-4.6/desktop/Makefile.am
+joe-4.6/desktop/joe.desktop
+joe-4.6/desktop/jmacs.desktop
+joe-4.6/desktop/Makefile.in
+joe-4.6/desktop/jstar.desktop
+joe-4.6/docs/
+joe-4.6/docs/hacking.md
+joe-4.6/docs/README.old
+joe-4.6/docs/help-system.html
+joe-4.6/docs/man.md
+bash-5.0# cd joe-4.6
+bash-5.0# ls
+COPYING        Makefile.in   autojoe	   config.sub	 desktop     missing
+ChangeLog      NEWS.md	     charmaps	   configure	 docs	     po
+INSTALL.AMIGA  README.md     colors	   configure.ac  install-sh  rc
+INSTALL.md     acinclude.m4  compile	   cygbuild	 joe	     setup.hint
+Makefile.am    aclocal.m4    config.guess  depcomp	 man	     syntax
+bash-5.0# ./configure --r prefic x=/use t r \
+> --sysconfd dir=/etc \
+> --docdir=/usr/shatre   te/   re/doc/joe-4.6 &&
+> make
+checking build system type... x86_64-unknown-linux-gnu
+checking host system type... x86_64-unknown-linux-gnu
+checking target system type... x86_64-unknown-linux-gnu
+checking for a BSD-compatible install... /usr/bin/install -c
+checking whether build environment is sane... yes
+checking for a thread-safe mkdir -p... /bin/mkdir -p
+checking for gawk... gawk
+checking whether make sets $(MAKE)... yes
+checking whether make supports nested variables... yes
+checking whether to enable maintainer-specific portions of Makefiles... no
+checking for gcc... gcc
+checking whether the C compiler works... yes
+checking for C compiler default output file name... a.out
+checking for suffix of executables... 
+checking whether we are cross compiling... no
+checking for suffix of object files... o
+checking whether we are using the GNU C compiler... yes
+checking whether gcc accepts -g... yes
+checking for gcc option to accept ISO C89... none needed
+checking whether gcc understands -c and -o together... yes
+checking for style of include used by make... GNU
+checking dependency style of gcc... gcc3
+checking how to run the C preprocessor... gcc -E
+checking for grep that handles long lines and -e... /bin/grep
+checking for egrep... /bin/grep -E
+checking whether ln -s works... yes
+checking for library containing openpty... -lutil
+checking for library containing login_tty... none required
+checking for library containing tgetflag... -lncurses
+checking for library containing snprintf... none required
+checking for special C compiler options needed for large files... no
+checking for _FILE_OFFSET_BITS value needed for large files... no
+checking for dirent.h that defines DIR... yes
+checking for library containing opendir... none required
+checking POSIX termios... yes
+checking whether termios.h defines TIOCGWINSZ... no
+checking whether sys/ioctl.h defines TIOCGWINSZ... yes
+checking errno.h usability... yes
+checking errno.h presence... yes
+checking for errno.h... yes
+checking fcntl.h usability... yes
+checking fcntl.h presence... yes
+checking for fcntl.h... yes
+checking locale.h usability... yes
+checking locale.h presence... yes
+checking for locale.h... yes
+checking sgtty.h usability... yes
+checking sgtty.h presence... yes
+checking for sgtty.h... yes
+checking stdlib.h usability... yes
+checking stdlib.h presence... yes
+checking for stdlib.h... yes
+checking string.h usability... yes
+checking string.h presence... yes
+checking for string.h... yes
+checking sys/ioctl.h usability... yes
+checking sys/ioctl.h presence... yes
+checking for sys/ioctl.h... yes
+checking sys/param.h usability... yes
+checking sys/param.h presence... yes
+checking for sys/param.h... yes
+checking sys/time.h usability... yes
+checking sys/time.h presence... yes
+checking for sys/time.h... yes
+checking unistd.h usability... yes
+checking unistd.h presence... yes
+checking for unistd.h... yes
+checking utime.h usability... yes
+checking utime.h presence... yes
+checking for utime.h... yes
+checking sys/dirent.h usability... no
+checking sys/dirent.h presence... no
+checking for sys/dirent.h... no
+checking time.h usability... yes
+checking time.h presence... yes
+checking for time.h... yes
+checking pwd.h usability... yes
+checking pwd.h presence... yes
+checking for pwd.h... yes
+checking paths.h usability... yes
+checking paths.h presence... yes
+checking for paths.h... yes
+checking pty.h usability... yes
+checking pty.h presence... yes
+checking for pty.h... yes
+checking libutil.h usability... no
+checking libutil.h presence... no
+checking for libutil.h... no
+checking sys/types.h usability... yes
+checking sys/types.h presence... yes
+checking for sys/types.h... yes
+checking sys/stat.h usability... yes
+checking sys/stat.h presence... yes
+checking for sys/stat.h... yes
+checking sys/wait.h usability... yes
+checking sys/wait.h presence... yes
+checking for sys/wait.h... yes
+checking limits.h usability... yes
+checking limits.h presence... yes
+checking for limits.h... yes
+checking signal.h usability... yes
+checking signal.h presence... yes
+checking for signal.h... yes
+checking curses.h usability... yes
+checking curses.h presence... yes
+checking for curses.h... yes
+checking utmp.h usability... yes
+checking utmp.h presence... yes
+checking for utmp.h... yes
+checking sys/utime.h usability... no
+checking sys/utime.h presence... no
+checking for sys/utime.h... no
+checking stddef.h usability... yes
+checking stddef.h presence... yes
+checking for stddef.h... yes
+checking for term.h... yes
+checking selinux/selinux.h usability... no
+checking selinux/selinux.h presence... no
+checking for selinux/selinux.h... no
+checking selinux/context.h usability... no
+checking selinux/context.h presence... no
+checking for selinux/context.h... no
+checking for function prototypes... yes
+checking for an ANSI C-conforming const... yes
+checking for long long... yes
+checking size of char... 1
+checking size of short... 2
+checking size of int... 4
+checking size of long... 8
+checking size of long long... 8
+checking size of void *... 8
+checking for sighandler_t... no
+checking whether gcc needs -traditional... no
+checking whether lstat correctly handles trailing slash... yes
+checking whether lstat accepts an empty string... no
+checking whether setpgrp() takes no arguments... yes
+checking for pid_t... yes
+checking for size_t... yes
+checking for off_t... yes
+checking size of off_t... 8
+checking for ssize_t... yes
+checking return type of signal handlers... void
+checking whether stat accepts an empty string... no
+checking vfork.h usability... no
+checking vfork.h presence... no
+checking for vfork.h... no
+checking for fork... yes
+checking for vfork... yes
+checking for working fork... yes
+checking for working vfork... (cached) yes
+checking for getcwd... yes
+checking for getwd... yes
+checking for isblank... yes
+checking whether isblank() works correctly with side effect expressions... yes
+checking for alarm... yes
+checking for mkdir... yes
+checking for mkstemp... yes
+checking for putenv... yes
+checking for setlocale... yes
+checking for strchr... yes
+checking for strdup... yes
+checking for utime... yes
+checking for setpgid... yes
+checking for setitimer... yes
+checking for sigaction... yes
+checking for sigvec... no
+checking for siginterrupt... yes
+checking for sigprocmask... yes
+checking for library containing sin... -lm
+checking for library containing cos... none required
+checking for library containing tan... none required
+checking for library containing exp... none required
+checking for library containing sqrt... none required
+checking for library containing cbrt... none required
+checking for library containing log... none required
+checking for library containing log10... none required
+checking for library containing asin... none required
+checking for library containing acos... none required
+checking for library containing atan... none required
+checking for library containing sinh... none required
+checking for library containing cosh... none required
+checking for library containing tanh... none required
+checking for library containing asinh... none required
+checking for library containing acosh... none required
+checking for library containing atanh... none required
+checking for library containing floor... none required
+checking for library containing ceil... none required
+checking for library containing fabs... none required
+checking for library containing erf... none required
+checking for library containing erfc... none required
+checking for library containing j0... none required
+checking for library containing j1... none required
+checking for library containing y0... none required
+checking for library containing y1... none required
+checking for library containing hypot... none required
+checking whether sighandlers must be reinstalled... no
+checking for aspell... ispell
+checking that generated files are newer than configure... done
+configure: creating ./config.status
+config.status: creating Makefile
+config.status: creating joe/Makefile
+config.status: creating joe/util/Makefile
+config.status: creating rc/Makefile
+config.status: creating man/Makefile
+config.status: creating man/ru/Makefile
+config.status: creating syntax/Makefile
+config.status: creating po/Makefile
+config.status: creating colors/Makefile
+config.status: creating charmaps/klingon
+config.status: creating desktop/Makefile
+config.status: creating joe/autoconf.h
+config.status: executing depfiles commands
+Making all in man
+make[1]: Entering directory '/blfs/joe-4.6/man'
+Making all in ru
+make[2]: Entering directory '/blfs/joe-4.6/man/ru'
+LC_ALL=C sed 's,@JOERC\@,/etc/joe,; s,@JOEDOC\@,/usr/share/doc/joe-4.6,; s,@JOEDATA\@,/usr/share/joe,; s,@SPELL\@,ispell,; s,@BINDIR\@,/usr/bin,' ./joe.1.in > joe.1
+make[2]: Leaving directory '/blfs/joe-4.6/man/ru'
+make[2]: Entering directory '/blfs/joe-4.6/man'
+LC_ALL=C sed 's,@JOERC\@,/etc/joe,; s,@JOEDOC\@,/usr/share/doc/joe-4.6,; s,@JOEDATA\@,/usr/share/joe,; s,@SPELL\@,ispell,; s,@BINDIR\@,/usr/bin,' ./joe.1.in > joe.1
+make[2]: Leaving directory '/blfs/joe-4.6/man'
+make[1]: Leaving directory '/blfs/joe-4.6/man'
+Making all in rc
+make[1]: Entering directory '/blfs/joe-4.6/rc'
+LC_ALL=C sed 's,@JOERC\@,/etc/joe,; s,@JOEDOC\@,/usr/share/doc/joe-4.6,; s,@JOEDATA\@,/usr/share/joe,; s,@SPELL\@,ispell,' ./joerc.in > joerc
+LC_ALL=C sed 's,@JOERC\@,/etc/joe,; s,@JOEDOC\@,/usr/share/doc/joe-4.6,; s,@JOEDATA\@,/usr/share/joe,; s,@SPELL\@,ispell,' ./jicerc.ru.in > jicerc.ru
+LC_ALL=C sed 's,@JOERC\@,/etc/joe,; s,@JOEDOC\@,/usr/share/doc/joe-4.6,; s,@JOEDATA\@,/usr/share/joe,; s,@SPELL\@,ispell,' ./jmacsrc.in > jmacsrc
+LC_ALL=C sed 's,@JOERC\@,/etc/joe,; s,@JOEDOC\@,/usr/share/doc/joe-4.6,; s,@JOEDATA\@,/usr/share/joe,; s,@SPELL\@,ispell,' ./jstarrc.in > jstarrc
+LC_ALL=C sed 's,@JOERC\@,/etc/joe,; s,@JOEDOC\@,/usr/share/doc/joe-4.6,; s,@JOEDATA\@,/usr/share/joe,; s,@SPELL\@,ispell,' ./rjoerc.in > rjoerc
+LC_ALL=C sed 's,@JOERC\@,/etc/joe,; s,@JOEDOC\@,/usr/share/doc/joe-4.6,; s,@JOEDATA\@,/usr/share/joe,; s,@SPELL\@,ispell,' ./jpicorc.in > jpicorc
+LC_ALL=C sed 's,@JOERC\@,/etc/joe,; s,@JOEDOC\@,/usr/share/doc/joe-4.6,; s,@JOEDATA\@,/usr/share/joe,; s,@SPELL\@,ispell,' ./joerc.zh_TW.in > joerc.zh_TW
+make[1]: Leaving directory '/blfs/joe-4.6/rc'
+Making all in po
+make[1]: Entering directory '/blfs/joe-4.6/po'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/blfs/joe-4.6/po'
+Making all in syntax
+make[1]: Entering directory '/blfs/joe-4.6/syntax'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/blfs/joe-4.6/syntax'
+Making all in joe
+make[1]: Entering directory '/blfs/joe-4.6/joe'
+make  all-recursive
+make[2]: Entering directory '/blfs/joe-4.6/joe'
+Making all in util
+make[3]: Entering directory '/blfs/joe-4.6/joe/util'
+gcc -DHAVE_CONFIG_H -I. -I../../joe     -g -O2 -MT termidx.o -MD -MP -MF .deps/termidx.Tpo -c -o termidx.o termidx.c
+mv -f .deps/termidx.Tpo .deps/termidx.Po
+gcc  -g -O2   -o termidx termidx.o  -lm -lncurses -lutil 
+gcc -DHAVE_CONFIG_H -I. -I../../joe     -g -O2 -MT stringify.o -MD -MP -MF .deps/stringify.Tpo -c -o stringify.o stringify.c
+mv -f .deps/stringify.Tpo .deps/stringify.Po
+gcc  -g -O2   -o stringify stringify.o  -lm -lncurses -lutil 
+gcc -DHAVE_CONFIG_H -I. -I../../joe     -g -O2 -MT uniproc.o -MD -MP -MF .deps/uniproc.Tpo -c -o uniproc.o uniproc.c
+mv -f .deps/uniproc.Tpo .deps/uniproc.Po
+gcc  -g -O2   -o uniproc uniproc.o  -lm -lncurses -lutil 
+gcc -DHAVE_CONFIG_H -I. -I../../joe     -g -O2 -MT checkwidths.o -MD -MP -MF .deps/checkwidths.Tpo -c -o checkwidths.o checkwidths.c
+mv -f .deps/checkwidths.Tpo .deps/checkwidths.Po
+gcc  -g -O2   -o checkwidths checkwidths.o  -lm -lncurses -lutil 
+make[3]: Leaving directory '/blfs/joe-4.6/joe/util'
+make[3]: Entering directory '/blfs/joe-4.6/joe'
+gcc -DHAVE_CONFIG_H -I.  -DJOERC="\"/etc/joe/\"" -DJOEDATA="\"/usr/share/joe/\""   -g -O2 -MT b.o -MD -MP -MF .deps/b.Tpo -c -o b.o b.c
+mv -f .deps/b.Tpo .deps/b.Po
+gcc -DHAVE_CONFIG_H -I.  -DJOERC="\"/etc/joe/\"" -DJOEDATA="\"/usr/share/joe/\""   -g -O2 -MT blocks.o -MD -MP -MF .deps/blocks.Tpo -c -o blocks.o blocks.c
+mv -f .deps/blocks.Tpo .deps/blocks.Po
+gcc -DHAVE_CONFIG_H -I.  -DJOERC="\"/etc/joe/\"" -DJOEDATA="\"/usr/share/joe/\""   -g -O2 -MT bw.o -MD -MP -MF .deps/bw.Tpo -c -o bw.o bw.c
+mv -f .deps/bw.Tpo .deps/bw.Po
+gcc -DHAVE_CONFIG_H -I.  -DJOERC="\"/etc/joe/\"" -DJOEDATA="\"/usr/share/joe/\""   -g -O2 -MT cmd.o -MD -MP -MF .deps/cmd.Tpo -c -o cmd.o cmd.c
+mv -f .deps/cmd.Tpo .deps/cmd.Po
+gcc -DHAVE_CONFIG_H -I.  -DJOERC="\"/etc/joe/\"" -DJOEDATA="\"/usr/share/joe/\""   -g -O2 -MT hash.o -MD -MP -MF .deps/hash.Tpo -c -o hash.o hash.c
+mv -f .deps/hash.Tpo .deps/hash.Po
+gcc -DHAVE_CONFIG_H -I.  -DJOERC="\"/etc/joe/\"" -DJOEDATA="\"/usr/share/joe/\""   -g -O2 -MT help.o -MD -MP -MF .deps/help.Tpo -c -o help.o help.c
+mv -f .deps/help.Tpo .deps/help.Po
+gcc -DHAVE_CONFIG_H -I.  -DJOERC="\"/etc/joe/\"" -DJOEDATA="\"/usr/share/joe/\""   -g -O2 -MT kbd.o -MD -MP -MF .deps/kbd.Tpo -c -o kbd.o kbd.c
+mv -f .deps/kbd.Tpo .deps/kbd.Po
+gcc -DHAVE_CONFIG_H -I.  -DJOERC="\"/etc/joe/\"" -DJOEDATA="\"/usr/share/joe/\""   -g -O2 -MT macro.o -MD -MP -MF .deps/macro.Tpo -c -o macro.o macro.c
+mv -f .deps/macro.Tpo .deps/macro.Po
+gcc -DHAVE_CONFIG_H -I.  -DJOERC="\"/etc/joe/\"" -DJOEDATA="\"/usr/share/joe/\""   -g -O2 -MT main.o -MD -MP -MF .deps/main.Tpo -c -o main.o main.c
+mv -f .deps/main.Tpo .deps/main.Po
+gcc -DHAVE_CONFIG_H -I.  -DJOERC="\"/etc/joe/\"" -DJOEDATA="\"/usr/share/joe/\""   -g -O2 -MT menu.o -MD -MP -MF .deps/menu.Tpo -c -o menu.o menu.c
+mv -f .deps/menu.Tpo .deps/menu.Po
+gcc -DHAVE_CONFIG_H -I.  -DJOERC="\"/etc/joe/\"" -DJOEDATA="\"/usr/share/joe/\""   -g -O2 -MT path.o -MD -MP -MF .deps/path.Tpo -c -o path.o path.c
+mv -f .deps/path.Tpo .deps/path.Po
+gcc -DHAVE_CONFIG_H -I.  -DJOERC="\"/etc/joe/\"" -DJOEDATA="\"/usr/share/joe/\""   -g -O2 -MT poshist.o -MD -MP -MF .deps/poshist.Tpo -c -o poshist.o poshist.c
+mv -f .deps/poshist.Tpo .deps/poshist.Po
+gcc -DHAVE_CONFIG_H -I.  -DJOERC="\"/etc/joe/\"" -DJOEDATA="\"/usr/share/joe/\""   -g -O2 -MT pw.o -MD -MP -MF .deps/pw.Tpo -c -o pw.o pw.c
+mv -f .deps/pw.Tpo .deps/pw.Po
+gcc -DHAVE_CONFIG_H -I.  -DJOERC="\"/etc/joe/\"" -DJOEDATA="\"/usr/share/joe/\""   -g -O2 -MT queue.o -MD -MP -MF .deps/queue.Tpo -c -o queue.o queue.c
+mv -f .deps/queue.Tpo .deps/queue.Po
+gcc -DHAVE_CONFIG_H -I.  -DJOERC="\"/etc/joe/\"" -DJOEDATA="\"/usr/share/joe/\""   -g -O2 -MT qw.o -MD -MP -MF .deps/qw.Tpo -c -o qw.o qw.c
+mv -f .deps/qw.Tpo .deps/qw.Po
+gcc -DHAVE_CONFIG_H -I.  -DJOERC="\"/etc/joe/\"" -DJOEDATA="\"/usr/share/joe/\""   -g -O2 -MT rc.o -MD -MP -MF .deps/rc.Tpo -c -o rc.o rc.c
+mv -f .deps/rc.Tpo .deps/rc.Po
+gcc -DHAVE_CONFIG_H -I.  -DJOERC="\"/etc/joe/\"" -DJOEDATA="\"/usr/share/joe/\""   -g -O2 -MT regex.o -MD -MP -MF .deps/regex.Tpo -c -o regex.o regex.c
+mv -f .deps/regex.Tpo .deps/regex.Po
+gcc -DHAVE_CONFIG_H -I.  -DJOERC="\"/etc/joe/\"" -DJOEDATA="\"/usr/share/joe/\""   -g -O2 -MT scrn.o -MD -MP -MF .deps/scrn.Tpo -c -o scrn.o scrn.c
+mv -f .deps/scrn.Tpo .deps/scrn.Po
+gcc -DHAVE_CONFIG_H -I.  -DJOERC="\"/etc/joe/\"" -DJOEDATA="\"/usr/share/joe/\""   -g -O2 -MT tab.o -MD -MP -MF .deps/tab.Tpo -c -o tab.o tab.c
+mv -f .deps/tab.Tpo .deps/tab.Po
+gcc -DHAVE_CONFIG_H -I.  -DJOERC="\"/etc/joe/\"" -DJOEDATA="\"/usr/share/joe/\""   -g -O2 -MT termcap.o -MD -MP -MF .deps/termcap.Tpo -c -o termcap.o termcap.c
+mv -f .deps/termcap.Tpo .deps/termcap.Po
+gcc -DHAVE_CONFIG_H -I.  -DJOERC="\"/etc/joe/\"" -DJOEDATA="\"/usr/share/joe/\""   -g -O2 -MT tty.o -MD -MP -MF .deps/tty.Tpo -c -o tty.o tty.c
+mv -f .deps/tty.Tpo .deps/tty.Po
+gcc -DHAVE_CONFIG_H -I.  -DJOERC="\"/etc/joe/\"" -DJOEDATA="\"/usr/share/joe/\""   -g -O2 -MT tw.o -MD -MP -MF .deps/tw.Tpo -c -o tw.o tw.c
+mv -f .deps/tw.Tpo .deps/tw.Po
+gcc -DHAVE_CONFIG_H -I.  -DJOERC="\"/etc/joe/\"" -DJOEDATA="\"/usr/share/joe/\""   -g -O2 -MT ublock.o -MD -MP -MF .deps/ublock.Tpo -c -o ublock.o ublock.c
+mv -f .deps/ublock.Tpo .deps/ublock.Po
+gcc -DHAVE_CONFIG_H -I.  -DJOERC="\"/etc/joe/\"" -DJOEDATA="\"/usr/share/joe/\""   -g -O2 -MT uedit.o -MD -MP -MF .deps/uedit.Tpo -c -o uedit.o uedit.c
+mv -f .deps/uedit.Tpo .deps/uedit.Po
+gcc -DHAVE_CONFIG_H -I.  -DJOERC="\"/etc/joe/\"" -DJOEDATA="\"/usr/share/joe/\""   -g -O2 -MT uerror.o -MD -MP -MF .deps/uerror.Tpo -c -o uerror.o uerror.c
+mv -f .deps/uerror.Tpo .deps/uerror.Po
+gcc -DHAVE_CONFIG_H -I.  -DJOERC="\"/etc/joe/\"" -DJOEDATA="\"/usr/share/joe/\""   -g -O2 -MT ufile.o -MD -MP -MF .deps/ufile.Tpo -c -o ufile.o ufile.c
+mv -f .deps/ufile.Tpo .deps/ufile.Po
+gcc -DHAVE_CONFIG_H -I.  -DJOERC="\"/etc/joe/\"" -DJOEDATA="\"/usr/share/joe/\""   -g -O2 -MT uformat.o -MD -MP -MF .deps/uformat.Tpo -c -o uformat.o uformat.c
+mv -f .deps/uformat.Tpo .deps/uformat.Po
+gcc -DHAVE_CONFIG_H -I.  -DJOERC="\"/etc/joe/\"" -DJOEDATA="\"/usr/share/joe/\""   -g -O2 -MT uisrch.o -MD -MP -MF .deps/uisrch.Tpo -c -o uisrch.o uisrch.c
+mv -f .deps/uisrch.Tpo .deps/uisrch.Po
+gcc -DHAVE_CONFIG_H -I.  -DJOERC="\"/etc/joe/\"" -DJOEDATA="\"/usr/share/joe/\""   -g -O2 -MT umath.o -MD -MP -MF .deps/umath.Tpo -c -o umath.o umath.c
+mv -f .deps/umath.Tpo .deps/umath.Po
+gcc -DHAVE_CONFIG_H -I.  -DJOERC="\"/etc/joe/\"" -DJOEDATA="\"/usr/share/joe/\""   -g -O2 -MT undo.o -MD -MP -MF .deps/undo.Tpo -c -o undo.o undo.c
+mv -f .deps/undo.Tpo .deps/undo.Po
+gcc -DHAVE_CONFIG_H -I.  -DJOERC="\"/etc/joe/\"" -DJOEDATA="\"/usr/share/joe/\""   -g -O2 -MT usearch.o -MD -MP -MF .deps/usearch.Tpo -c -o usearch.o usearch.c
+mv -f .deps/usearch.Tpo .deps/usearch.Po
+gcc -DHAVE_CONFIG_H -I.  -DJOERC="\"/etc/joe/\"" -DJOEDATA="\"/usr/share/joe/\""   -g -O2 -MT ushell.o -MD -MP -MF .deps/ushell.Tpo -c -o ushell.o ushell.c
+mv -f .deps/ushell.Tpo .deps/ushell.Po
+gcc -DHAVE_CONFIG_H -I.  -DJOERC="\"/etc/joe/\"" -DJOEDATA="\"/usr/share/joe/\""   -g -O2 -MT utag.o -MD -MP -MF .deps/utag.Tpo -c -o utag.o utag.c
+mv -f .deps/utag.Tpo .deps/utag.Po
+gcc -DHAVE_CONFIG_H -I.  -DJOERC="\"/etc/joe/\"" -DJOEDATA="\"/usr/share/joe/\""   -g -O2 -MT va.o -MD -MP -MF .deps/va.Tpo -c -o va.o va.c
+mv -f .deps/va.Tpo .deps/va.Po
+gcc -DHAVE_CONFIG_H -I.  -DJOERC="\"/etc/joe/\"" -DJOEDATA="\"/usr/share/joe/\""   -g -O2 -MT vfile.o -MD -MP -MF .deps/vfile.Tpo -c -o vfile.o vfile.c
+mv -f .deps/vfile.Tpo .deps/vfile.Po
+gcc -DHAVE_CONFIG_H -I.  -DJOERC="\"/etc/joe/\"" -DJOEDATA="\"/usr/share/joe/\""   -g -O2 -MT vs.o -MD -MP -MF .deps/vs.Tpo -c -o vs.o vs.c
+mv -f .deps/vs.Tpo .deps/vs.Po
+gcc -DHAVE_CONFIG_H -I.  -DJOERC="\"/etc/joe/\"" -DJOEDATA="\"/usr/share/joe/\""   -g -O2 -MT w.o -MD -MP -MF .deps/w.Tpo -c -o w.o w.c
+mv -f .deps/w.Tpo .deps/w.Po
+gcc -DHAVE_CONFIG_H -I.  -DJOERC="\"/etc/joe/\"" -DJOEDATA="\"/usr/share/joe/\""   -g -O2 -MT utils.o -MD -MP -MF .deps/utils.Tpo -c -o utils.o utils.c
+mv -f .deps/utils.Tpo .deps/utils.Po
+gcc -DHAVE_CONFIG_H -I.  -DJOERC="\"/etc/joe/\"" -DJOEDATA="\"/usr/share/joe/\""   -g -O2 -MT syntax.o -MD -MP -MF .deps/syntax.Tpo -c -o syntax.o syntax.c
+mv -f .deps/syntax.Tpo .deps/syntax.Po
+gcc -DHAVE_CONFIG_H -I.  -DJOERC="\"/etc/joe/\"" -DJOEDATA="\"/usr/share/joe/\""   -g -O2 -MT utf8.o -MD -MP -MF .deps/utf8.Tpo -c -o utf8.o utf8.c
+mv -f .deps/utf8.Tpo .deps/utf8.Po
+gcc -DHAVE_CONFIG_H -I.  -DJOERC="\"/etc/joe/\"" -DJOEDATA="\"/usr/share/joe/\""   -g -O2 -MT selinux.o -MD -MP -MF .deps/selinux.Tpo -c -o selinux.o selinux.c
+mv -f .deps/selinux.Tpo .deps/selinux.Po
+gcc -DHAVE_CONFIG_H -I.  -DJOERC="\"/etc/joe/\"" -DJOEDATA="\"/usr/share/joe/\""   -g -O2 -MT charmap.o -MD -MP -MF .deps/charmap.Tpo -c -o charmap.o charmap.c
+mv -f .deps/charmap.Tpo .deps/charmap.Po
+gcc -DHAVE_CONFIG_H -I.  -DJOERC="\"/etc/joe/\"" -DJOEDATA="\"/usr/share/joe/\""   -g -O2 -MT mouse.o -MD -MP -MF .deps/mouse.Tpo -c -o mouse.o mouse.c
+mv -f .deps/mouse.Tpo .deps/mouse.Po
+gcc -DHAVE_CONFIG_H -I.  -DJOERC="\"/etc/joe/\"" -DJOEDATA="\"/usr/share/joe/\""   -g -O2 -MT lattr.o -MD -MP -MF .deps/lattr.Tpo -c -o lattr.o lattr.c
+mv -f .deps/lattr.Tpo .deps/lattr.Po
+gcc -DHAVE_CONFIG_H -I.  -DJOERC="\"/etc/joe/\"" -DJOEDATA="\"/usr/share/joe/\""   -g -O2 -MT gettext.o -MD -MP -MF .deps/gettext.Tpo -c -o gettext.o gettext.c
+mv -f .deps/gettext.Tpo .deps/gettext.Po
+gcc -DHAVE_CONFIG_H -I.  -DJOERC="\"/etc/joe/\"" -DJOEDATA="\"/usr/share/joe/\""   -g -O2 -MT builtin.o -MD -MP -MF .deps/builtin.Tpo -c -o builtin.o builtin.c
+mv -f .deps/builtin.Tpo .deps/builtin.Po
+gcc -DHAVE_CONFIG_H -I.  -DJOERC="\"/etc/joe/\"" -DJOEDATA="\"/usr/share/joe/\""   -g -O2 -MT builtins.o -MD -MP -MF .deps/builtins.Tpo -c -o builtins.o builtins.c
+mv -f .deps/builtins.Tpo .deps/builtins.Po
+gcc -DHAVE_CONFIG_H -I.  -DJOERC="\"/etc/joe/\"" -DJOEDATA="\"/usr/share/joe/\""   -g -O2 -MT vt.o -MD -MP -MF .deps/vt.Tpo -c -o vt.o vt.c
+mv -f .deps/vt.Tpo .deps/vt.Po
+gcc -DHAVE_CONFIG_H -I.  -DJOERC="\"/etc/joe/\"" -DJOEDATA="\"/usr/share/joe/\""   -g -O2 -MT mmenu.o -MD -MP -MF .deps/mmenu.Tpo -c -o mmenu.o mmenu.c
+mv -f .deps/mmenu.Tpo .deps/mmenu.Po
+gcc -DHAVE_CONFIG_H -I.  -DJOERC="\"/etc/joe/\"" -DJOEDATA="\"/usr/share/joe/\""   -g -O2 -MT state.o -MD -MP -MF .deps/state.Tpo -c -o state.o state.c
+mv -f .deps/state.Tpo .deps/state.Po
+gcc -DHAVE_CONFIG_H -I.  -DJOERC="\"/etc/joe/\"" -DJOEDATA="\"/usr/share/joe/\""   -g -O2 -MT options.o -MD -MP -MF .deps/options.Tpo -c -o options.o options.c
+mv -f .deps/options.Tpo .deps/options.Po
+gcc -DHAVE_CONFIG_H -I.  -DJOERC="\"/etc/joe/\"" -DJOEDATA="\"/usr/share/joe/\""   -g -O2 -MT unicode.o -MD -MP -MF .deps/unicode.Tpo -c -o unicode.o unicode.c
+mv -f .deps/unicode.Tpo .deps/unicode.Po
+gcc -DHAVE_CONFIG_H -I.  -DJOERC="\"/etc/joe/\"" -DJOEDATA="\"/usr/share/joe/\""   -g -O2 -MT cclass.o -MD -MP -MF .deps/cclass.Tpo -c -o cclass.o cclass.c
+mv -f .deps/cclass.Tpo .deps/cclass.Po
+gcc -DHAVE_CONFIG_H -I.  -DJOERC="\"/etc/joe/\"" -DJOEDATA="\"/usr/share/joe/\""   -g -O2 -MT frag.o -MD -MP -MF .deps/frag.Tpo -c -o frag.o frag.c
+mv -f .deps/frag.Tpo .deps/frag.Po
+gcc -DHAVE_CONFIG_H -I.  -DJOERC="\"/etc/joe/\"" -DJOEDATA="\"/usr/share/joe/\""   -g -O2 -MT colors.o -MD -MP -MF .deps/colors.Tpo -c -o colors.o colors.c
+mv -f .deps/colors.Tpo .deps/colors.Po
+gcc -DHAVE_CONFIG_H -I.  -DJOERC="\"/etc/joe/\"" -DJOEDATA="\"/usr/share/joe/\""   -g -O2 -MT unicat-9.0.0.o -MD -MP -MF .deps/unicat-9.0.0.Tpo -c -o unicat-9.0.0.o unicat-9.0.0.c
+mv -f .deps/unicat-9.0.0.Tpo .deps/unicat-9.0.0.Po
+gcc  -g -O2   -o joe b.o blocks.o bw.o cmd.o hash.o help.o kbd.o macro.o main.o menu.o path.o poshist.o pw.o queue.o qw.o rc.o regex.o scrn.o tab.o termcap.o tty.o tw.o ublock.o uedit.o uerror.o ufile.o uformat.o uisrch.o umath.o undo.o usearch.o ushell.o utag.o va.o vfile.o vs.o w.o utils.o syntax.o utf8.o selinux.o charmap.o mouse.o lattr.o gettext.o builtin.o builtins.o vt.o mmenu.o state.o options.o unicode.o cclass.o frag.o colors.o unicat-9.0.0.o  -lm -lncurses -lutil 
+make[3]: Leaving directory '/blfs/joe-4.6/joe'
+make[2]: Leaving directory '/blfs/joe-4.6/joe'
+make[1]: Leaving directory '/blfs/joe-4.6/joe'
+Making all in colors
+make[1]: Entering directory '/blfs/joe-4.6/colors'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/blfs/joe-4.6/colors'
+Making all in desktop
+make[1]: Entering directory '/blfs/joe-4.6/desktop'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/blfs/joe-4.6/desktop'
+make[1]: Entering directory '/blfs/joe-4.6'
+make[1]: Nothing to be done for 'all-am'.
+make[1]: Leaving directory '/blfs/joe-4.6'
+bash-5.0# 
+bash-5.0# 
+bash-5.0# 
+bash-5.0# 
+bash-5.0# 
+bash-5.0# 
+bash-5.0# sudo make install && 
+> install -vm 755 joe/uto u il/{stringify,teem  rmidx,inuc    unic proc} /use/bin
+bash: sudo: command not found
+bash-5.0# sudo make install &&  install -vm 755 joe/util/{stringify,termidx,uniprroc} /use/bin[Audo make install &&  install -vm 755 joe/util/{stringify,termidx,unipro[1P[Aash-5.0# do make install &&  install -vm 755 joe/util/{stringify,termidx,uniproc[1P[Aash-5.0# o make install &&  install -vm 755 joe/util/{stringify,termidx,uniproc}[1P[Aash-5.0#  make install &&  install -vm 755 joe/util/{stringify,termidx,uniproc} [1P[Aash-5.0# make install &&  install -vm 755 joe/util/{stringify,termidx,uniproc} /[1P[Aash-5.0# 
+
+Making install in man
+make[1]: Entering directory '/blfs/joe-4.6/man'
+Making install in ru
+make[2]: Entering directory '/blfs/joe-4.6/man/ru'
+make[3]: Entering directory '/blfs/joe-4.6/man/ru'
+make[3]: Nothing to be done for 'install-exec-am'.
+ /bin/mkdir -p '/usr/share/man/ru/man1'
+ /usr/bin/install -c -m 644 joe.1 '/usr/share/man/ru/man1'
+make[3]: Leaving directory '/blfs/joe-4.6/man/ru'
+make[2]: Leaving directory '/blfs/joe-4.6/man/ru'
+make[2]: Entering directory '/blfs/joe-4.6/man'
+make[3]: Entering directory '/blfs/joe-4.6/man'
+make[3]: Nothing to be done for 'install-exec-am'.
+ /bin/mkdir -p '/usr/share/man/man1'
+ /usr/bin/install -c -m 644 joe.1 '/usr/share/man/man1'
+make[3]: Leaving directory '/blfs/joe-4.6/man'
+make[2]: Leaving directory '/blfs/joe-4.6/man'
+make[1]: Leaving directory '/blfs/joe-4.6/man'
+Making install in rc
+make[1]: Entering directory '/blfs/joe-4.6/rc'
+make[2]: Entering directory '/blfs/joe-4.6/rc'
+make[2]: Nothing to be done for 'install-exec-am'.
+ /bin/mkdir -p '/etc/joe'
+ /usr/bin/install -c -m 644 joerc jicerc.ru jmacsrc jstarrc rjoerc jpicorc joerc.zh_TW ftyperc shell.sh shell.csh '/etc/joe'
+make[2]: Leaving directory '/blfs/joe-4.6/rc'
+make[1]: Leaving directory '/blfs/joe-4.6/rc'
+Making install in po
+make[1]: Entering directory '/blfs/joe-4.6/po'
+make[2]: Entering directory '/blfs/joe-4.6/po'
+make[2]: Nothing to be done for 'install-exec-am'.
+ /bin/mkdir -p '/usr/share/joe/lang'
+ /usr/bin/install -c -m 644 ru.po de.po fr.po uk.po zh_TW.po '/usr/share/joe/lang'
+make[2]: Leaving directory '/blfs/joe-4.6/po'
+make[1]: Leaving directory '/blfs/joe-4.6/po'
+Making install in syntax
+make[1]: Entering directory '/blfs/joe-4.6/syntax'
+make[2]: Entering directory '/blfs/joe-4.6/syntax'
+make[2]: Nothing to be done for 'install-exec-am'.
+ /bin/mkdir -p '/usr/share/joe/syntax'
+ /usr/bin/install -c -m 644 c.jsf perl.jsf verilog.jsf conf.jsf python.jsf php.jsf sh.jsf mail.jsf pascal.jsf html.jsf vhdl.jsf fortran.jsf java.jsf xml.jsf tcl.jsf lisp.jsf csh.jsf mason.jsf diff.jsf asm.jsf tex.jsf css.jsf ocaml.jsf 4gl.jsf sml.jsf sql.jsf awk.jsf cobol.jsf sed.jsf ps.jsf ada.jsf troff.jsf haskell.jsf rexx.jsf skill.jsf lua.jsf ruby.jsf m4.jsf joerc.jsf spec.jsf '/usr/share/joe/syntax'
+ /usr/bin/install -c -m 644 matlab.jsf jsf.jsf jsf_check.jsf csharp.jsf batch.jsf ini.jsf go.jsf js.jsf json.jsf typescript.jsf ant.jsf comment_todo.jsf debian.jsf elixir.jsf erb.jsf git-commit.jsf haml.jsf htmlerb.jsf iptables.jsf md.jsf prolog.jsf properties.jsf sieve.jsf whitespace.jsf yaml.jsf erlang.jsf powershell.jsf puppet.jsf filename.jsf avr.jsf r.jsf groovy.jsf clojure.jsf rust.jsf coffee.jsf scala.jsf swift.jsf d.jsf dockerfile.jsf context.jsf '/usr/share/joe/syntax'
+ /usr/bin/install -c -m 644 jcf.jsf '/usr/share/joe/syntax'
+make[2]: Leaving directory '/blfs/joe-4.6/syntax'
+make[1]: Leaving directory '/blfs/joe-4.6/syntax'
+Making install in joe
+make[1]: Entering directory '/blfs/joe-4.6/joe'
+Making install in util
+make[2]: Entering directory '/blfs/joe-4.6/joe/util'
+make[3]: Entering directory '/blfs/joe-4.6/joe/util'
+make[3]: Nothing to be done for 'install-exec-am'.
+make[3]: Nothing to be done for 'install-data-am'.
+make[3]: Leaving directory '/blfs/joe-4.6/joe/util'
+make[2]: Leaving directory '/blfs/joe-4.6/joe/util'
+make[2]: Entering directory '/blfs/joe-4.6/joe'
+make[3]: Entering directory '/blfs/joe-4.6/joe'
+ /bin/mkdir -p '/usr/bin'
+  /usr/bin/install -c joe '/usr/bin'
+make[3]: Nothing to be done for 'install-data-am'.
+make[3]: Leaving directory '/blfs/joe-4.6/joe'
+make[2]: Leaving directory '/blfs/joe-4.6/joe'
+make[1]: Leaving directory '/blfs/joe-4.6/joe'
+Making install in colors
+make[1]: Entering directory '/blfs/joe-4.6/colors'
+make[2]: Entering directory '/blfs/joe-4.6/colors'
+make[2]: Nothing to be done for 'install-exec-am'.
+ /bin/mkdir -p '/usr/share/joe/colors'
+ /usr/bin/install -c -m 644 xoria.jcf gruvbox.jcf default.jcf ir_black.jcf zenburn.jcf wombat.jcf molokai.jcf zenburn-hc.jcf solarized.jcf '/usr/share/joe/colors'
+make[2]: Leaving directory '/blfs/joe-4.6/colors'
+make[1]: Leaving directory '/blfs/joe-4.6/colors'
+Making install in desktop
+make[1]: Entering directory '/blfs/joe-4.6/desktop'
+make[2]: Entering directory '/blfs/joe-4.6/desktop'
+make[2]: Nothing to be done for 'install-exec-am'.
+ /bin/mkdir -p '/usr/share/applications'
+ /usr/bin/install -c -m 644 joe.desktop jmacs.desktop jstar.desktop jpico.desktop '/usr/share/applications'
+make  install-data-hook
+make[3]: Entering directory '/blfs/joe-4.6/desktop'
+update-desktop-database /usr/share/applications
+make[3]: update-desktop-database: No such file or directory
+make[3]: [Makefile:462: update-databases] Error 127 (ignored)
+make[3]: Leaving directory '/blfs/joe-4.6/desktop'
+make[2]: Leaving directory '/blfs/joe-4.6/desktop'
+make[1]: Leaving directory '/blfs/joe-4.6/desktop'
+make[1]: Entering directory '/blfs/joe-4.6'
+make[2]: Entering directory '/blfs/joe-4.6'
+make  install-exec-hook
+make[3]: Entering directory '/blfs/joe-4.6'
+rm -f /usr/bin/jmacs /usr/bin/jstar /usr/bin/rjoe /usr/bin/jpico
+rm -f /usr/bin/jmacs.exe /usr/bin/jstar.exe /usr/bin/rjoe.exe /usr/bin/jpico.exe
+for i in jmacs jstar rjoe jpico ; do ln -s joe /usr/bin/$i ; done
+make[3]: Leaving directory '/blfs/joe-4.6'
+ /bin/mkdir -p '/usr/share/joe/charmaps'
+ /usr/bin/install -c -m 644 charmaps/klingon '/usr/share/joe/charmaps'
+ /bin/mkdir -p '/usr/share/doc/joe-4.6'
+ /usr/bin/install -c -m 644 README.md docs/README.old docs/man.md ChangeLog docs/hacking.md NEWS.md '/usr/share/doc/joe-4.6'
+make[2]: Leaving directory '/blfs/joe-4.6'
+make[1]: Leaving directory '/blfs/joe-4.6'
+install: target '/use/bin' is not a directory
+bash-5.0# joe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[H[J[?2004h[m[1;25r[H[7m    I    Unnamed                                               Row 1    Col 1   
+[m[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K[7m Joe's Own Editor 4.6 (ascii) ** Type [1mCtrl-K Q[m[7m to exit or [1mCtrl-K H[m[7m for help **[m[K[H
+[A[7m^K[24B[m[K[H
+[23B[?2004l
+No modified files, so no updates needed.
+bash-5.0# 
+bash-5.0# 
+bash-5.0# 
+bash-5.0# 
+bash-5.0# 
+bash-5.0# vi tetsfilwe       stfile
+[1;25r[27m[24m[m[H[J[?25l[?1c[25;1H"testfile" [New File][2;1H½[6n[2;1H  [1;1H[2;1H[1m[34m~                                                                               [3;1H~                                                                               [4;1H~                                                                               [5;1H~                                                                               [6;1H~                                                                               [7;1H~                                                                               [8;1H~                                                                               [9;1H~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                                                                               [13;1H~                                                                               [14;1H~                                                                               [15;1H~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [24;1H~                                                                               [m[25;63H0,0-1[9CAll[1;1H[?25h[?0c[?25l[?1c[25;1H[1m-- INSERT --[m[25;13H[K[25;63H0,1[11CAll[1;1H[?25h[?0c[?25l[?1ct[25;63H1,2[1;2H[?25h[?0c[?25l[?1ch[25;65H3[1;3H[?25h[?0c[?25l[?1ci[25;65H4[1;4H[?25h[?0c[?25l[?1cs[25;65H5[1;5H[?25h[?0c[?25l[?1c[25;65H6[1;6H[?25h[?0c[?25l[?1ci[25;65H7[1;7H[?25h[?0c[?25l[?1cs[25;65H8[1;8H[?25h[?0c[?25l[?1c[25;65H9[1;9H[?25h[?0c[?25l[?1ca[25;65H10[1;10H[?25h[?0c[?25l[?1c[25;66H1[1;11H[?25h[?0c[?25l[?1ct[25;66H2[1;12H[?25h[?0c[?25l[?1ce[25;66H3[1;13H[?25h[?0c[?25l[?1cs[25;66H4[1;14H[?25h[?0c[?25l[?1ct[25;66H5[1;15H[?25h[?0c[?25l[?1c[25;66H6[1;16H[?25h[?0c[?25l[?1cf[25;66H7[1;17H[?25h[?0c[?25l[?1ci[25;66H8[1;18H[?25h[?0c[?25l[?1cl[25;66H9[1;19H[?25h[?0c[?25l[?1ce[25;65H20[1;20H[?25h[?0c[25;1H[K[1;19H[?25l[?1c[25;63H1,19[10CAll[1;19H[?25h[?0c[?25l[?1c[25;63H[K[25;1H:[?25h[?0cwq![?25l[?1c"testfile" [New] 1L, 20C written[?25h[?0c
+bash-5.0# hoe     joe testfile 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[H[J[?2004h[m[1;25r[H[7m    I    testfile                                              Row 1    Col 1   
+[mthis is a test file[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K[7m Joe's Own Editor 4.6 (ascii) ** Type [1mCtrl-K Q[m[7m to exit or [1mCtrl-K H[m[7m for help **[m[K[H
+[A[7m^[
+[A[2C[
+[A   [73C2[24B[m[K[H
+[C[H[7m^[
+[A[C[
+[H   [73C3
+[2C[H^[
+[A[
+[H   [73C4
+[3C[H^[
+[C[A[
+[H   [73C5[5G
+[H^[
+[2C[A[
+[C[H   [73C6[6G
+[H^[
+[3C[H[2C[
+[2C[H   [73C7[7G
+[H^[
+[4C[H[2C[
+[3C[H   [73C8[8G
+[H^[
+[5C[H[2C[
+[4C[H   [73C9[9G
+[H^[
+[6C[H[2C[
+[5C[H   [73C10
+[69D[H^[
+[7C[H[2C[
+[6C[H   [74C1
+[68D[H^[
+[8C[H[2C[
+[7C[H   [74C2
+[67D[H^[
+[9C[H[2C[
+[8C[H   [74C3
+[66D[H^[
+[10C[H[2C[
+[9C[H   [74C4
+[65D[H^[
+[11C[H[2C[
+[10C[H   [74C5
+[64D[H^[
+[12C[H[2C[
+[11C[H   [74C6
+[63D[H^[
+[13C[H[2C[
+[12C[H   [74C7
+[62D[H^[
+[14C[H[2C[
+[13C[H   [74C8
+[61D[H^[
+[15C[H[2C[
+[14C[H   [74C9
+[60D[H^[
+[16C[H[2C[
+[15C[H   [73C20
+[59D[H^[
+[17C[H[2C[
+[16C[H   [64C2[8C1 
+
+[H^[
+
+[H[2C[
+
+[H   
+
+[ma[1;19H[7m(Modified)[48C2
+
+[C[m[Kn[1;77H[7m3
+
+[2C[m[Kd[1;77H[7m4[3;4H[m[K [1;77H[7m5[3;5H[m[Kt[1;77H[7m6[3;6H[m[Kh[1;77H[7m7[3;7H[m[Ki[1;77H[7m8[3;8H[m[Ks[1;77H[7m9[3;9H[m[K [1;77H[7m10
+
+[69D[m[Kf[1;78H[7m1
+
+[68D[m[Ki[1;78H[7m2
+
+[67D[m[Kl[1;78H[7m3
+
+[66D[m[Ke[1;78H[7m4
+
+[65D[m[K [1;78H[7m5
+
+[64D[m[Ki[1;78H[7m6
+
+[63D[m[Kn[1;78H[7m7
+
+[62D[m[K [1;78H[7m8
+
+[61D[m[Kn[1;78H[7m9
+
+[60D[m[Ko[1;77H[7m20
+
+[59D[m[Kw[1;78H[7m1
+
+[58D[m[K [1;78H[7m2
+
+[57D[m[Ke[1;78H[7m3
+
+[56D[m[Kd[1;78H[7m4
+
+[55D[m[Ko[1;78H[7m5
+
+[54D[m[Kt[1;78H[7m6
+
+[53D[m[K[1;78H[7m5
+
+[54D[m[K[1;78H[7m4
+
+[55D[m[Ki[1;78H[7m5
+
+[54D[m[Kt[1;78H[7m6
+
+[53D[m[Ke[1;78H[7m7
+
+[52D[m[Kd[1;78H[7m8
+
+[51D[m[K [1;78H[7m9
+
+[50D[m[Kw[1;77H[7m30
+
+[49D[m[Ki[1;78H[7m1
+
+[48D[m[Kt[1;78H[7m2
+
+[47D[m[Kh[1;78H[7m3
+
+[46D[m[K [1;78H[7m4
+
+[45D[m[Kj[1;78H[7m5
+
+[44D[m[Ko[1;78H[7m6
+
+[43D[m[Ke[1;78H[7m7
+
+[42D[m[K [1;78H[7m8
+
+[41D[m[Ke[1;78H[7m9
+
+[40D[m[Kd[1;77H[7m40
+
+[39D[m[Ko[1;78H[7m1
+
+[38D[m[Kt[1;78H[7m2
+
+[37D[m[Ko[1;78H[7m3
+
+[36D[m[Kr[1;78H[7m4
+
+[35D[m[K[1;78H[7m3
+
+[36D[m[K[1;78H[7m2
+
+[37D[m[K[1;78H[7m1
+
+[38D[m[K[1;78H[7m0
+
+[39D[m[Ki[1;78H[7m1
+
+[38D[m[Kt[1;78H[7m2
+
+[37D[m[Ko[1;78H[7m3
+
+[36D[m[Kr[1;78H[7m4
+
+[35D[m[K[H[7m^[
+
+[41C[H  [24B[mI-find:[3;44H[25;9Hh[ANot found[K[3;44H[21B[KNot found[K[3;44H[21B[KNot found[K[3;44H[21B[K
+[K[3;44H[1;68H[7m3[8C1 
+
+
+[H^[
+
+
+[H  [24B[mSet mark (0-9):[4d[21B[K[4d[H[7m^[
+
+
+[H  
+
+
+[H^K
+
+
+[H  
+
+
+[21B[mNot found[K[4dd[1;77H[7m2
+
+
+[C[m[K[21B[K[4d[Cd[1;77H[7m3[4;3H[m[K[1;77H[7m2
+
+
+[C[m[K[1;77H[7m1
+
+
+[m[K[H[7m^K
+
+
+[21B[mName of file to save (^K H for help): testfile[K[H[7m  [25;47H[1;19H          [24B[m[KFile testfile saved[K[4d[H[7m^K[24B[m[K[4d[21B[?2004l
+No modified files, so no updates needed.
+bash-5.0# 
+bash-5.0# 
+bash-5.0# 
+bash-5.0# cat testfile
+this is a test file
+and this file in now edited with joe editor
+bash-5.0# 
+bash-5.0# 
+bash-5.0# 
+bash-5.0# 
+bash-5.0# pewf   wd
+/blfs/joe-4.6
+bash-5.0# cd ..
+bash-5.0# ls
+browsers.tar  emacs-26.3	 joe-4.6	 nano-4.8.tar.xz    typescript
+ed.tar.gz     emacs-26.3.tar.xz  joe-4.6.tar.gz  ruby-2.7.0.tar.xz
+bash-5.0# tar -xvf nano-4.8.tar.xz 
+nano-4.8/
+nano-4.8/AUTHORS
+nano-4.8/missing
+nano-4.8/ABOUT-NLS
+nano-4.8/config.sub
+nano-4.8/syntax/
+nano-4.8/syntax/tcl.nanorc
+nano-4.8/syntax/sh.nanorc
+nano-4.8/syntax/makefile.nanorc
+nano-4.8/syntax/ocaml.nanorc
+nano-4.8/syntax/php.nanorc
+nano-4.8/syntax/python.nanorc
+nano-4.8/syntax/mutt.nanorc
+nano-4.8/syntax/texinfo.nanorc
+nano-4.8/syntax/html.nanorc
+nano-4.8/syntax/asm.nanorc
+nano-4.8/syntax/postgresql.nanorc
+nano-4.8/syntax/objc.nanorc
+nano-4.8/syntax/patch.nanorc
+nano-4.8/syntax/elisp.nanorc
+nano-4.8/syntax/awk.nanorc
+nano-4.8/syntax/changelog.nanorc
+nano-4.8/syntax/Makefile.in
+nano-4.8/syntax/cmake.nanorc
+nano-4.8/syntax/po.nanorc
+nano-4.8/syntax/gentoo.nanorc
+nano-4.8/syntax/nanohelp.nanorc
+nano-4.8/syntax/go.nanorc
+nano-4.8/syntax/nanorc.nanorc
+nano-4.8/syntax/tex.nanorc
+nano-4.8/syntax/man.nanorc
+nano-4.8/syntax/guile.nanorc
+nano-4.8/syntax/xml.nanorc
+nano-4.8/syntax/autoconf.nanorc
+nano-4.8/syntax/javascript.nanorc
+nano-4.8/syntax/spec.nanorc
+nano-4.8/syntax/java.nanorc
+nano-4.8/syntax/json.nanorc
+nano-4.8/syntax/lua.nanorc
+nano-4.8/syntax/pov.nanorc
+nano-4.8/syntax/nftables.nanorc
+nano-4.8/syntax/mgp.nanorc
+nano-4.8/syntax/debian.nanorc
+nano-4.8/syntax/Makefile.am
+nano-4.8/syntax/groff.nanorc
+nano-4.8/syntax/c.nanorc
+nano-4.8/syntax/rust.nanorc
+nano-4.8/syntax/ruby.nanorc
+nano-4.8/syntax/fortran.nanorc
+nano-4.8/syntax/default.nanorc
+nano-4.8/syntax/css.nanorc
+nano-4.8/syntax/perl.nanorc
+nano-4.8/TODO
+nano-4.8/README
+nano-4.8/Makefile.in
+nano-4.8/po/
+nano-4.8/po/ms.po
+nano-4.8/po/hr.po
+nano-4.8/po/bg.po
+nano-4.8/po/quot.sed
+nano-4.8/po/de.po
+nano-4.8/po/da.gmo
+nano-4.8/po/ru.gmo
+nano-4.8/po/Makevars
+nano-4.8/po/nn.po
+nano-4.8/po/zh_CN.po
+nano-4.8/po/zh_CN.gmo
+nano-4.8/po/ko.po
+nano-4.8/po/sr.gmo
+nano-4.8/po/hr.gmo
+nano-4.8/po/id.gmo
+nano-4.8/po/nn.gmo
+nano-4.8/po/tr.po
+nano-4.8/po/es.po
+nano-4.8/po/ja.gmo
+nano-4.8/po/remove-potcdate.sin
+nano-4.8/po/sl.gmo
+nano-4.8/po/ca.po
+nano-4.8/po/vi.po
+nano-4.8/po/ga.po
+nano-4.8/po/en@boldquot.header
+nano-4.8/po/nb.gmo
+nano-4.8/po/sv.po
+nano-4.8/po/pl.gmo
+nano-4.8/po/eu.gmo
+nano-4.8/po/fr.gmo
+nano-4.8/po/eo.gmo
+nano-4.8/po/pl.po
+nano-4.8/po/hu.po
+nano-4.8/po/ro.po
+nano-4.8/po/fi.gmo
+nano-4.8/po/ga.gmo
+nano-4.8/po/ca.gmo
+nano-4.8/po/zh_TW.gmo
+nano-4.8/po/fr.po
+nano-4.8/po/ChangeLog
+nano-4.8/po/ro.gmo
+nano-4.8/po/nl.po
+nano-4.8/po/tr.gmo
+nano-4.8/po/ru.po
+nano-4.8/po/eu.po
+nano-4.8/po/it.po
+nano-4.8/po/eo.po
+nano-4.8/po/POTFILES.in
+nano-4.8/po/ko.gmo
+nano-4.8/po/cs.po
+nano-4.8/po/pt_BR.gmo
+nano-4.8/po/Makefile.in.in
+nano-4.8/po/pt.po
+nano-4.8/po/sr.po
+nano-4.8/po/stamp-po
+nano-4.8/po/nl.gmo
+nano-4.8/po/gl.gmo
+nano-4.8/po/da.po
+nano-4.8/po/sl.po
+nano-4.8/po/en@quot.header
+nano-4.8/po/gl.po
+nano-4.8/po/cs.gmo
+nano-4.8/po/pt.gmo
+nano-4.8/po/sv.gmo
+nano-4.8/po/it.gmo
+nano-4.8/po/ja.po
+nano-4.8/po/bg.gmo
+nano-4.8/po/hu.gmo
+nano-4.8/po/nano.pot
+nano-4.8/po/de.gmo
+nano-4.8/po/uk.po
+nano-4.8/po/nb.po
+nano-4.8/po/insert-header.sin
+nano-4.8/po/fi.po
+nano-4.8/po/uk.gmo
+nano-4.8/po/id.po
+nano-4.8/po/zh_TW.po
+nano-4.8/po/pt_BR.po
+nano-4.8/po/LINGUAS
+nano-4.8/po/ms.gmo
+nano-4.8/po/es.gmo
+nano-4.8/po/Rules-quot
+nano-4.8/po/boldquot.sed
+nano-4.8/po/vi.gmo
+nano-4.8/doc/
+nano-4.8/doc/nano.1
+nano-4.8/doc/sample.nanorc.in
+nano-4.8/doc/Makefile.in
+nano-4.8/doc/nanorc.5
+nano-4.8/doc/nano.1.html
+nano-4.8/doc/nano.html
+nano-4.8/doc/nano.texi
+nano-4.8/doc/faq.html
+nano-4.8/doc/nano.info
+nano-4.8/doc/nanorc.5.html
+nano-4.8/doc/texinfo.tex
+nano-4.8/doc/rnano.1.html
+nano-4.8/doc/Makefile.am
+nano-4.8/doc/rnano.1
+nano-4.8/ChangeLog.2007-2015
+nano-4.8/m4/
+nano-4.8/m4/limits-h.m4
+nano-4.8/m4/setlocale_null.m4
+nano-4.8/m4/gnulib-comp.m4
+nano-4.8/m4/size_max.m4
+nano-4.8/m4/btowc.m4
+nano-4.8/m4/locale-ja.m4
+nano-4.8/m4/getdelim.m4
+nano-4.8/m4/iswblank.m4
+nano-4.8/m4/utime_h.m4
+nano-4.8/m4/mbsinit.m4
+nano-4.8/m4/glibc2.m4
+nano-4.8/m4/exponentf.m4
+nano-4.8/m4/ax_check_compile_flag.m4
+nano-4.8/m4/frexpl.m4
+nano-4.8/m4/stat.m4
+nano-4.8/m4/extensions.m4
+nano-4.8/m4/string_h.m4
+nano-4.8/m4/uintmax_t.m4
+nano-4.8/m4/d-type.m4
+nano-4.8/m4/wctype_h.m4
+nano-4.8/m4/fstat.m4
+nano-4.8/m4/intldir.m4
+nano-4.8/m4/stdint.m4
+nano-4.8/m4/snprintf-posix.m4
+nano-4.8/m4/pthread_rwlock_rdlock.m4
+nano-4.8/m4/exponentl.m4
+nano-4.8/m4/largefile.m4
+nano-4.8/m4/vasnprintf.m4
+nano-4.8/m4/wint_t.m4
+nano-4.8/m4/wcwidth.m4
+nano-4.8/m4/localcharset.m4
+nano-4.8/m4/vsnprintf.m4
+nano-4.8/m4/msvc-nothrow.m4
+nano-4.8/m4/Makefile.in
+nano-4.8/m4/clock_time.m4
+nano-4.8/m4/libunistring-base.m4
+nano-4.8/m4/pathmax.m4
+nano-4.8/m4/printf-frexp.m4
+nano-4.8/m4/lock.m4
+nano-4.8/m4/mbrtowc.m4
+nano-4.8/m4/malloc.m4
+nano-4.8/m4/stdio_h.m4
+nano-4.8/m4/mbtowc.m4
+nano-4.8/m4/lcmessage.m4
+nano-4.8/m4/eealloc.m4
+nano-4.8/m4/utime.m4
+nano-4.8/m4/float_h.m4
+nano-4.8/m4/stdarg.m4
+nano-4.8/m4/fcntl_h.m4
+nano-4.8/m4/fnmatch.m4
+nano-4.8/m4/math_h.m4
+nano-4.8/m4/utimes.m4
+nano-4.8/m4/stdint_h.m4
+nano-4.8/m4/std-gnu11.m4
+nano-4.8/m4/ac_define_dir.m4
+nano-4.8/m4/nl_langinfo.m4
+nano-4.8/m4/sigaction.m4
+nano-4.8/m4/errno_h.m4
+nano-4.8/m4/langinfo_h.m4
+nano-4.8/m4/closedir.m4
+nano-4.8/m4/sys_types_h.m4
+nano-4.8/m4/extern-inline.m4
+nano-4.8/m4/signalblocking.m4
+nano-4.8/m4/absolute-header.m4
+nano-4.8/m4/stddef_h.m4
+nano-4.8/m4/mbstate_t.m4
+nano-4.8/m4/locale_h.m4
+nano-4.8/m4/msvc-inval.m4
+nano-4.8/m4/localeconv.m4
+nano-4.8/m4/wcrtomb.m4
+nano-4.8/m4/nls.m4
+nano-4.8/m4/readdir.m4
+nano-4.8/m4/regex.m4
+nano-4.8/m4/fnmatch_h.m4
+nano-4.8/m4/snprintf.m4
+nano-4.8/m4/vsnprintf-posix.m4
+nano-4.8/m4/raise.m4
+nano-4.8/m4/timespec.m4
+nano-4.8/m4/mempcpy.m4
+nano-4.8/m4/visibility.m4
+nano-4.8/m4/getlogin_r.m4
+nano-4.8/m4/sys_wait_h.m4
+nano-4.8/m4/isnanf.m4
+nano-4.8/m4/exponentd.m4
+nano-4.8/m4/stdlib_h.m4
+nano-4.8/m4/isnanl.m4
+nano-4.8/m4/sys_stat_h.m4
+nano-4.8/m4/inttypes-pri.m4
+nano-4.8/m4/ctype.m4
+nano-4.8/m4/gettime.m4
+nano-4.8/m4/lib-link.m4
+nano-4.8/m4/isnand.m4
+nano-4.8/m4/strings_h.m4
+nano-4.8/m4/ChangeLog
+nano-4.8/m4/flexmember.m4
+nano-4.8/m4/strnlen.m4
+nano-4.8/m4/locale-zh.m4
+nano-4.8/m4/printf-posix.m4
+nano-4.8/m4/signal_h.m4
+nano-4.8/m4/codeset.m4
+nano-4.8/m4/threadlib.m4
+nano-4.8/m4/ssize_t.m4
+nano-4.8/m4/__inline.m4
+nano-4.8/m4/warn-on-use.m4
+nano-4.8/m4/lib-prefix.m4
+nano-4.8/m4/opendir.m4
+nano-4.8/m4/progtest.m4
+nano-4.8/m4/lstat.m4
+nano-4.8/m4/alloca.m4
+nano-4.8/m4/gettext.m4
+nano-4.8/m4/localtime-buffer.m4
+nano-4.8/m4/stat-time.m4
+nano-4.8/m4/intmax.m4
+nano-4.8/m4/glob.m4
+nano-4.8/m4/strcase.m4
+nano-4.8/m4/isblank.m4
+nano-4.8/m4/intmax_t.m4
+nano-4.8/m4/include_next.m4
+nano-4.8/m4/gnulib-cache.m4
+nano-4.8/m4/futimens.m4
+nano-4.8/m4/intl.m4
+nano-4.8/m4/unistd_h.m4
+nano-4.8/m4/zzgnulib.m4
+nano-4.8/m4/memchr.m4
+nano-4.8/m4/printf-frexpl.m4
+nano-4.8/m4/getline.m4
+nano-4.8/m4/intdiv0.m4
+nano-4.8/m4/glob_h.m4
+nano-4.8/m4/multiarch.m4
+nano-4.8/m4/xsize.m4
+nano-4.8/m4/nocrash.m4
+nano-4.8/m4/po.m4
+nano-4.8/m4/longlong.m4
+nano-4.8/m4/00gnulib.m4
+nano-4.8/m4/mbsrtowcs.m4
+nano-4.8/m4/dirent_h.m4
+nano-4.8/m4/gnulib-common.m4
+nano-4.8/m4/strcasestr.m4
+nano-4.8/m4/stdbool.m4
+nano-4.8/m4/mmap-anon.m4
+nano-4.8/m4/fpieee.m4
+nano-4.8/m4/sys_socket_h.m4
+nano-4.8/m4/Makefile.am
+nano-4.8/m4/wchar_h.m4
+nano-4.8/m4/intlmacosx.m4
+nano-4.8/m4/utimens.m4
+nano-4.8/m4/signbit.m4
+nano-4.8/m4/frexp.m4
+nano-4.8/m4/time_h.m4
+nano-4.8/m4/malloca.m4
+nano-4.8/m4/off_t.m4
+nano-4.8/m4/dirfd.m4
+nano-4.8/m4/wchar_t.m4
+nano-4.8/m4/lib-ld.m4
+nano-4.8/m4/locale-fr.m4
+nano-4.8/m4/printf.m4
+nano-4.8/m4/sys_time_h.m4
+nano-4.8/m4/iconv.m4
+nano-4.8/m4/inttypes_h.m4
+nano-4.8/m4/getopt.m4
+nano-4.8/m4/builtin-expect.m4
+nano-4.8/m4/getlogin.m4
+nano-4.8/m4/fcntl-o.m4
+nano-4.8/m4/glibc21.m4
+nano-4.8/m4/inttypes.m4
+nano-4.8/m4/ldexpl.m4
+nano-4.8/m4/gettimeofday.m4
+nano-4.8/configure.ac
+nano-4.8/nano.spec.in
+nano-4.8/src/
+nano-4.8/src/proto.h
+nano-4.8/src/color.c
+nano-4.8/src/Makefile.in
+nano-4.8/src/chars.c
+nano-4.8/src/nano.h
+nano-4.8/src/history.c
+nano-4.8/src/cut.c
+nano-4.8/src/rcfile.c
+nano-4.8/src/nano.c
+nano-4.8/src/text.c
+nano-4.8/src/files.c
+nano-4.8/src/utils.c
+nano-4.8/src/move.c
+nano-4.8/src/help.c
+nano-4.8/src/search.c
+nano-4.8/src/prompt.c
+nano-4.8/src/global.c
+nano-4.8/src/browser.c
+nano-4.8/src/Makefile.am
+nano-4.8/src/winio.c
+nano-4.8/IMPROVEMENTS
+nano-4.8/config.rpath
+nano-4.8/install-sh
+nano-4.8/COPYING.DOC
+nano-4.8/ChangeLog
+nano-4.8/COPYING
+nano-4.8/depcomp
+nano-4.8/ChangeLog.1999-2006
+nano-4.8/README.GIT
+nano-4.8/lib/
+nano-4.8/lib/getopt-pfx-core.h
+nano-4.8/lib/btowc.c
+nano-4.8/lib/mbtowc-impl.h
+nano-4.8/lib/strnlen.c
+nano-4.8/lib/flexmember.h
+nano-4.8/lib/localtime-buffer.h
+nano-4.8/lib/setlocale-lock.c
+nano-4.8/lib/glob.in.h
+nano-4.8/lib/stdlib.in.h
+nano-4.8/lib/size_max.h
+nano-4.8/lib/float+.h
+nano-4.8/lib/msvc-nothrow.c
+nano-4.8/lib/windows-mutex.c
+nano-4.8/lib/windows-initguard.h
+nano-4.8/lib/mbsrtowcs-state.c
+nano-4.8/lib/stdarg.in.h
+nano-4.8/lib/warn-on-use.h
+nano-4.8/lib/xsize.c
+nano-4.8/lib/wchar.in.h
+nano-4.8/lib/gettime.c
+nano-4.8/lib/windows-recmutex.h
+nano-4.8/lib/glob.c
+nano-4.8/lib/stat-time.h
+nano-4.8/lib/stdbool.in.h
+nano-4.8/lib/strnlen1.h
+nano-4.8/lib/wctype-h.c
+nano-4.8/lib/isblank.c
+nano-4.8/lib/localcharset.c
+nano-4.8/lib/langinfo.in.h
+nano-4.8/lib/mbrtowc-impl.h
+nano-4.8/lib/hard-locale.c
+nano-4.8/lib/dirent-private.h
+nano-4.8/lib/vsnprintf.c
+nano-4.8/lib/verify.h
+nano-4.8/lib/glob_internal.h
+nano-4.8/lib/nl_langinfo.c
+nano-4.8/lib/libc-config.h
+nano-4.8/lib/malloc.c
+nano-4.8/lib/mbsinit.c
+nano-4.8/lib/localtime-buffer.c
+nano-4.8/lib/isnand.c
+nano-4.8/lib/regex_internal.c
+nano-4.8/lib/regex.c
+nano-4.8/lib/getlogin_r.c
+nano-4.8/lib/malloc/
+nano-4.8/lib/malloc/scratch_buffer_grow.c
+nano-4.8/lib/malloc/scratch_buffer_set_array_size.c
+nano-4.8/lib/malloc/scratch_buffer.h
+nano-4.8/lib/malloc/scratch_buffer_grow_preserve.c
+nano-4.8/lib/printf-parse.h
+nano-4.8/lib/timespec.h
+nano-4.8/lib/Makefile.in
+nano-4.8/lib/glthread/
+nano-4.8/lib/glthread/lock.c
+nano-4.8/lib/glthread/threadlib.c
+nano-4.8/lib/glthread/lock.h
+nano-4.8/lib/globfree.c
+nano-4.8/lib/glob-libc.h
+nano-4.8/lib/vasnprintf.h
+nano-4.8/lib/sig-handler.c
+nano-4.8/lib/printf-frexp.h
+nano-4.8/lib/dirent.in.h
+nano-4.8/lib/msvc-inval.c
+nano-4.8/lib/strings.in.h
+nano-4.8/lib/time.in.h
+nano-4.8/lib/stdio.in.h
+nano-4.8/lib/hard-locale.h
+nano-4.8/lib/utimens.h
+nano-4.8/lib/sig-handler.h
+nano-4.8/lib/localcharset.h
+nano-4.8/lib/streq.h
+nano-4.8/lib/windows-rwlock.c
+nano-4.8/lib/alloca.c
+nano-4.8/lib/isnanf-nolibm.h
+nano-4.8/lib/getdelim.c
+nano-4.8/lib/isnanl-nolibm.h
+nano-4.8/lib/opendir.c
+nano-4.8/lib/wctype.in.h
+nano-4.8/lib/locale.in.h
+nano-4.8/lib/closedir.c
+nano-4.8/lib/lstat.c
+nano-4.8/lib/setlocale_null.h
+nano-4.8/lib/printf-frexpl.h
+nano-4.8/lib/frexpl.c
+nano-4.8/lib/mbsrtowcs-impl.h
+nano-4.8/lib/getopt_int.h
+nano-4.8/lib/inttypes.in.h
+nano-4.8/lib/itold.c
+nano-4.8/lib/getopt-cdefs.in.h
+nano-4.8/lib/regcomp.c
+nano-4.8/lib/str-two-way.h
+nano-4.8/lib/mbsrtowcs.c
+nano-4.8/lib/strcasecmp.c
+nano-4.8/lib/string.in.h
+nano-4.8/lib/unitypes.in.h
+nano-4.8/lib/printf-frexp.c
+nano-4.8/lib/sigaction.c
+nano-4.8/lib/signbitl.c
+nano-4.8/lib/getopt.c
+nano-4.8/lib/getopt1.c
+nano-4.8/lib/strnlen1.c
+nano-4.8/lib/errno.in.h
+nano-4.8/lib/asnprintf.c
+nano-4.8/lib/unistd.c
+nano-4.8/lib/snprintf.c
+nano-4.8/lib/wcrtomb.c
+nano-4.8/lib/windows-once.h
+nano-4.8/lib/dosname.h
+nano-4.8/lib/uniwidth/
+nano-4.8/lib/uniwidth/width.c
+nano-4.8/lib/uniwidth/cjk.h
+nano-4.8/lib/float.c
+nano-4.8/lib/isnan.c
+nan
